@@ -40,3 +40,6 @@
 - Использовать `chmod`, `chown`, `chgrp` для управления правами.  
 - Английский: закрепить новые слова (Security + At Home).  
 EOF
+
+## Mind Map
+![Linux Permissions Mind Map](Linux_Permissions.png)
